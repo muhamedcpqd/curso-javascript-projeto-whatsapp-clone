@@ -5,11 +5,7 @@ export class Firebase {
     constructor() {
 
         this._config = {
-            authDomain: "whatsapp-df51c.firebaseapp.com",
-            databaseURL: "https://whatsapp-df51c.firebaseio.com",
-            projectId: "whatsapp-df51c",
-            storageBucket: "gs://whatsapp-df51c.appspot.com",
-            messagingSenderId: "265446347283"
+            "Your config"
         }
         this.init();
     }
